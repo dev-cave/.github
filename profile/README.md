@@ -6,17 +6,7 @@
 
 <br>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=devcav&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-  media="(prefers-color-scheme: radical)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=devcav&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-  media="(prefers-color-scheme: radical), (prefers-color-scheme: radical)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=devcav&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcav&show_icons=true&theme=radical)
 
 <br>
 <br>
