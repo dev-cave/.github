@@ -9,7 +9,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcav&show_icons=true&theme=radical)
 
 <br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcav&layout=compact&theme=radical)](https://github.com/devcav/github-readme-stats)
 
